@@ -1,6 +1,3 @@
-//Salwa swelem 318198876
-//Bahaa Bader 208996520
-
 #include <LiquidCrystal.h> 
 #include <Servo.h>
 
